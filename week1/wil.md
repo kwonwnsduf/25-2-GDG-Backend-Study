@@ -2,3 +2,4 @@
  REST API는 자원을 URI로 구분하고, Method로 조작하며, JSON과 같은 표현 형식으로 데이터를 주고받는 원칙을 따른다. 또한 스프링 프레임워크는 백엔드 개발을 체계적으로 지원하며, 스프링 부트는 복잡한 설정을 단순화하여 초보자도 빠르고 안정적으로 서버 애플리케이션을 개발할 수 있도록 돕는 강력한 도구다. 이번 학습에서는 웹과 HTTP의 기본 구조, REST API의 개념, 그리고 스프링 부트 환경 설정 및 실행 방법을 익히고, 이를 바탕으로 온라인 쇼핑몰 프로젝트를 위한 API 명세서를 작성하는 실습을 진행했다.
 
 ![WhilteLabel Error Page](./whitelabel.png)
+<img width="1616" height="934" alt="스크린샷 2025-09-28 222247" src="https://github.com/user-attachments/assets/0e5d189d-2157-423d-8378-7e8ceebf5815" />

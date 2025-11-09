@@ -2,4 +2,5 @@
 <img width="2058" height="1403" alt="스크린샷 2025-11-09 202030" src="https://github.com/user-attachments/assets/377a16a5-4aba-4774-b9d7-d7fd4056b6e1" />
 <img width="2017" height="1445" alt="스크린샷 2025-11-09 202058" src="https://github.com/user-attachments/assets/3813711a-073a-47b6-b291-4f7acc25868f" />
 <img width="2640" height="1529" alt="스크린샷 2025-11-09 202133" src="https://github.com/user-attachments/assets/e9b45cde-91d7-4fa7-887d-876067f66975" />
+<img width="1369" height="612" alt="스크린샷 2025-11-09 202934" src="https://github.com/user-attachments/assets/e7e5a68b-adce-4f28-8d98-a5fd25938771" />
 
